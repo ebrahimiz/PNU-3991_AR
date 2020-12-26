@@ -6,10 +6,10 @@
 
 # زهرا ابراهیمی
 - [PNU_3991_AR](https://github.com/ebrahimiz/PNU_3991_AR)	- [PNU_3991_AR](https://github.com/ebrahimiz/PNU_3991_AR)
-- [Resume](https://ebrahimiz.github.io/Resume/) 	- [Resume](https://ebrahimiz.github.io) 
-- [SOP](https://ebrahimiz.github.io/SOP/)	- [SOP](https://ebrahimiz.github.io/SOP/)
-- [Certificates](https://ebrahimiz.github.io/Certificates/)	- [Certificates](https://ebrahimiz.github.io/Certificates/)
-- [GitHub](https://github.com/ebrahimiz)	- [GitHub](https://github.com/ebrahimiz)
+- [Resume](https://ebrahimiz.github.io/Resume/) 	
+- [SOP](https://ebrahimiz.github.io/SOP/)
+- [Certificates](https://ebrahimiz.github.io/Certificates/)
+- [GitHub](https://github.com/ebrahimiz)	
 --------------------------	--------------------------
 ## ----------------------	-------------------------
 ## گروه ها	## گروه ها
