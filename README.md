@@ -4,11 +4,11 @@
  	 
 ---	---
 - [github](https://github.com/bahssanbeygi)	
-- [PNU_3991_AR](https://github.com/bahssanbeygi/PNU_3991_AR)	
-- [resume](https://bahssanbeygi.github.io/resume/)
-- [SOP](https://github.com/bahssanbeygi/SOP) 	
-- [javascript Certificate](https://github.com/bahssanbeygi/PNU_3991_AR/blob/main/JSceritificate.pdf)	
-- [jlord patchwork](https://github.com/bahssanbeygi/PNU_3991_AR/blob/main/patchwork.jpg)
+- [PNU_3991_AR](https://github.com/ebrahimiz/PNU_3991_AR)	
+- [resume](https://ebrahimiz.github.io/resume/)
+- [SOP](https://github.com/ebrahimiz/SOP) 	
+- [javascript Certificate](https://github.com/ebrahimiz/PNU_3991_AR/blob/main/JSceritificate.pdf)	
+- [jlord patchwork](https://github.com/ebrahimiz/PNU_3991_AR/blob/main/patchwork.jpg)
   	  
 ------------------	------------------
 # گروه ها	# گروه ها
