@@ -3,7 +3,7 @@
 ### زهرا ابراهیمی
  	 
 ---	---
-- [github](https://github.com/bahssanbeygi)	
+- [github](https://github.com/ebrahimiz)	
 - [PNU_3991_AR](https://github.com/ebrahimiz/PNU_3991_AR)	
 - [resume](https://ebrahimiz.github.io)
 - [SOP](https://github.com/ebrahimiz/SOP) 	
