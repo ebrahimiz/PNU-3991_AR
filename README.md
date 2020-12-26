@@ -23,3 +23,4 @@
  
 [مهندسی نرم افزار پیشرفته ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/ADVANCESOFTWAERENGNEERING #TOC)
 
+[سمینار ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/   #TOC)
