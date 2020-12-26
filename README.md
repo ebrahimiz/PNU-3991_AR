@@ -11,7 +11,7 @@
 - [Certificates](https://ebrahimiz.github.io/Certificates/)
 - [GitHub](https://github.com/ebrahimiz)	
 
-1. **فعالیت های مشترک **
+ **فعالیت های مشترک **
     1.  ساخت اکانت گیت هاب
     2. [یادگیری گیت در سایت پچ ورک](http://jlord.us/patchwork/)	   
     3.  ارائه رزومه
