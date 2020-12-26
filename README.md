@@ -1,4 +1,4 @@
-#PNU<div dir="rtl">	# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+#PNU 
  # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)	
 
 
