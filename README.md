@@ -5,7 +5,7 @@
 ---	---
 - [github](https://github.com/bahssanbeygi)	
 - [PNU_3991_AR](https://github.com/ebrahimiz/PNU_3991_AR)	
-- [resume](https://ebrahimiz.github.io/resume/)
+- [resume](https://ebrahimiz.github.io)
 - [SOP](https://github.com/ebrahimiz/SOP) 	
 - [javascript Certificate](https://github.com/ebrahimiz/PNU_3991_AR/blob/main/JSceritificate.pdf)	
 - [jlord patchwork](https://github.com/ebrahimiz/PNU_3991_AR/blob/main/patchwork.jpg)
