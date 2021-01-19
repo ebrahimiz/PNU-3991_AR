@@ -2,7 +2,7 @@
 ---------
 # زهرا ابراهیمی
 - [PNU_3991_AR](https://github.com//ebrahimiz/PNU_3391_AR)
-- [Resume](https:///eebrahimiz.github.io Resume) 
+- [Resume](https://github.com/ebrahimiz/ebrahimiz.github.io.git) 
 - [SOP](https://github.com/ebrahimiz/SOP.git)
 - [GitHub](https://github.com//ebrahimiz)
 - [latex](https://github.com//ebrahimiz/latex)
