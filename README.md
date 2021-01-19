@@ -13,7 +13,7 @@
 -----------------
 #فعالیت های عمومی
 - [دروس مشابه](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
-- [پایان نامه](https://conservancy.umn.edu/handle/11299/182784)
+- [سمینار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Seminar/README.md#TOC)
 -----------------
 #ارزیابی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_CV_CheckList_AR_3991.pdf/)
