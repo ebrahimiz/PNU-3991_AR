@@ -1,6 +1,7 @@
-# PNU_3991_AR
+PNU_3991_AR
 ---------
 # زهرا ابراهیمی
+ <div dir="rtl">
 - [PNU_3991_AR](https://github.com//ebrahimiz/PNU_3391_AR)
 - [Resume](https://github.com/ebrahimiz/ebrahimiz.github.io.git) 
 - [SOP](https://github.com/ebrahimiz/SOP.git)
@@ -86,4 +87,3 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
-.
