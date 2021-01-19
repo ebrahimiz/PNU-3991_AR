@@ -9,7 +9,7 @@
 - [ارائه شفاهی لاتک](https://drive.google.com/file/d/1TZuD2Frp8qVNnmL6wGdLcebJ6_oFpTg2/view?usp=drivesdk)
 - [beamer](https://github.com//ebrahimiz/PNU_3391_AR/tree/main/beamer)
 - [Patchwork](https://github.com/ebrahimiz/patchwork.git)
-- [JavaScript Certificate](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/JavaScript_certificate.jpg)
+- [JavaScript Certificate](https://github.comebrahimiz/javascript-Certificate)
 -----------------
 #فعالیت های عمومی
 - [دروس مشابه](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
