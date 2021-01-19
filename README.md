@@ -1,6 +1,6 @@
 # PNU_3991_AR
 # زهرا ابراهیمی
-- [PNU_3991_AR](https://github.com//ebrahimiz/PNU_3391_AR)
+- [PNU_3991_AR](https://github.com/ebrahimiz/pnu_3391_AR)
 - [Resume](https://github.com/ebrahimiz/ebrahimiz.github.io.git) 
 - [SOP](https://github.com/ebrahimiz/SOP.git)
 - [GitHub](https://github.com//ebrahimiz)
