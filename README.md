@@ -19,7 +19,7 @@
 -----------------
 #ارزیابی
 - [ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/1NGxgjNNv_3DenHVwhpd2BWbmg-RrrZr5/view?usp=sharing)
-- [خلاصه ارزیابی بخش عمومی](https://drive.google.com/file/d/1NGxgjNNv_3DenHVwhpd2BWbmg-RrrZr5/view?usp=sharing)
+- [خلاصه ارزیابی بخش عمومی](Generall/ZE_GeneralSection_CheckList_AR_3991.pdf)
 - [مهندسی نرم افزار پیشرفته](https://github.com/ebrahimiz/PNU_3391_AR/blob/main/General/ZE_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 (https://drive.google.com/file/d/1dkt84pb8T_H3GfZKm0o8ENnWGMwLrKQL/view?usp=sharing)
 -----------------
