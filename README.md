@@ -6,7 +6,7 @@
 - [SOP](https://github.com/ebrahimiz/SOP.git)
 - [GitHub](https://github.com//ebrahimiz)
 - [latex](https://github.com//ebrahimiz/latex)
-- [ارائه شفاهی لاتک](https://drive.google.com/file/d/1TZuD2Frp8qVNnmL6wGdLcebJ6_oFpTg2/view?usp=drivesdk)
+- [ارائه شفاهی لاتک](https://drive.google.com/file/d/15W3k7LBS1USDJd4QMhz-k6wlJP9g-PTl/view?usp=sharing)
 - [beamer](https://github.com//ebrahimiz/PNU_3391_AR/tree/main/beamer)
 - [Patchwork](https://github.com/ebrahimiz/patchwork.git)
 - [JavaScript Certificate](https://github.com/ebrahimiz/javascript-Certificate)
@@ -16,9 +16,9 @@
 - [سمینار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Seminar/README.md#TOC)
 -----------------
 #ارزیابی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_CV_CheckList_AR_3991.pdf/)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_GeneralSection_CheckList_AR_3991.pdf)
-- [روش ارائه و پژوهش](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/ebrahimiz/PNU_3391_AR/blob/main/General/ZE_CV_CheckList_AR_3991.pdf/)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/ebrahimiz/PNU_3391_AR/blob/main/General/ZE_GeneralSection_CheckList_AR_3991.pdf)
+- [مهندسی نرم افزار پیشرفته](https://github.com/ebrahimiz/PNU_3391_AR/blob/main/General/ZE_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 -----------------
 ## درس کارشناسی ارشد
 [مهندسی نرم افزار پیشرفته 01-1115026](https://githubhttps://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/)
