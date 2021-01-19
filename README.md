@@ -10,10 +10,12 @@
 - [beamer](https://github.com//ebrahimiz/PNU_3391_AR/tree/main/beamer)
 - [Patchwork](https://github.com/ebrahimiz/patchwork.git)
 - [JavaScript Certificate](https://github.com/ebrahimiz/javascript-Certificate)
+
 -----------------
 #فعالیت های عمومی
 - [دروس مشابه](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
 - [سمینار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Seminar/README.md#TOC)
+[تکالیف](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
 -----------------
 #ارزیابی
 - [ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/1NGxgjNNv_3DenHVwhpd2BWbmg-RrrZr5/view?usp=sharing)
