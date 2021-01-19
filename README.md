@@ -20,8 +20,8 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_GeneralSection_CheckList_AR_3991.pdf)
 - [روش ارائه و پژوهش](https://github.com/Mehran-soufi/PNU_3391_AR/blob/main/General/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 -----------------
-## درس کارشناسی
-[روش پژوهش و اراِئه 01-1322010](https://githubhttps://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods.com/)
+## درس کارشناسی ارشد
+[مهندسی نرم افزار پیشرفته 01-1115026](https://githubhttps://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/)
 <br>
 --------------
 ## روز و ساعت ارائه دروس
@@ -76,7 +76,7 @@
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">روش پژوهش و ارائه</a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">مهندسی نرم افزار پیشرفته</a></th>
      <th ></th>
     <th></th>
      <th></th>
