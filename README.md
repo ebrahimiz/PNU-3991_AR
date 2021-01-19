@@ -1,4 +1,4 @@
-#PNU_3991_AR
+# PNU_3991_AR
 # زهرا ابراهیمی
 - [PNU_3991_AR](https://github.com//ebrahimiz/PNU_3391_AR)
 - [Resume](https://github.com/ebrahimiz/ebrahimiz.github.io.git) 
@@ -11,12 +11,12 @@
 - [JavaScript Certificate](https://github.com/ebrahimiz/javascript-Certificate)
 
 -----------------
-#فعالیت های عمومی
+# فعالیت های عمومی
 - [دروس مشابه](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
 - [سمینار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Seminar/README.md#TOC)
 - [تکالیف](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
 -----------------
-#ارزیابی
+# ارزیابی
 - [ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/1NGxgjNNv_3DenHVwhpd2BWbmg-RrrZr5/view?usp=sharing)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/ebrahimiz/pnu_3391_AR/blob/main/Generall/ZE_GeneralSection_CheckList_AR_3991.pdf)
 - [مهندسی نرم افزار پیشرفته](https://github.com/ebrahimiz/PNU_3391_AR/blob/main/General/ZE_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
@@ -26,7 +26,7 @@
 [مهندسی نرم افزار پیشرفته 01-1115026](https://githubhttps://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/)
 <br>
 --------------
-## روز و ساعت ارائه دروس
+##  روز و ساعت ارائه دروس
 <table style="width:100%">
   <tr>
     <th >16-18</th>
