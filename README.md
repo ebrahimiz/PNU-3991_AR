@@ -16,9 +16,10 @@
 - [سمینار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Seminar/README.md#TOC)
 -----------------
 #ارزیابی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/ebrahimiz/PNU_3391_AR/blob/main/General/ZE_CV_CheckList_AR_3991.pdf/)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/ebrahimiz/PNU_3391_AR/blob/main/General/ZE_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/1dkt84pb8T_H3GfZKm0o8ENnWGMwLrKQL/view?usp=sharing)
+- [خلاصه ارزیابی بخش عمومی](https://drive.google.com/file/d/1NGxgjNNv_3DenHVwhpd2BWbmg-RrrZr5/view?usp=sharing)
 - [مهندسی نرم افزار پیشرفته](https://github.com/ebrahimiz/PNU_3391_AR/blob/main/General/ZE_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+(https://drive.google.com/file/d/1dkt84pb8T_H3GfZKm0o8ENnWGMwLrKQL/view?usp=sharing)
 -----------------
 ## درس کارشناسی ارشد
 [مهندسی نرم افزار پیشرفته 01-1115026](https://githubhttps://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/)
